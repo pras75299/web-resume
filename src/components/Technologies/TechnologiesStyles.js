@@ -22,7 +22,13 @@ export const ImageContainer = styled.div`
     margin-top: 16px;
   }
 `
-
+export const Hr = styled.hr`
+  width: 50px;
+  height: 3px;
+  margin: 20px auto;
+  border: 0;
+  background: #d0bb57;
+`;
 export const MainImage = styled.img`
   width: 100%;
 `
